@@ -11,11 +11,11 @@ const Projects = () => {
   return (
     <div
       name="projects"
-      className="w-full md:h-screen text-screen text-gray-300 bg-[#0a192f]"
+      className="w-full md:h-screen text-screen text-gray-300 bg-[#2a3439]"
     >
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-cetner w-full h-full">
         <div className="pb-8">
-          <p className="text-4xl font-bold inline border-b-4 text-gray-300 border-[#9e11f7]">
+          <p className="text-4xl font-bold inline border-b-4 text-gray-300 border-[#9b00e8]">
             Projects
           </p>
           <p className="py-6"># Check out some of my recent projects</p>
@@ -31,7 +31,7 @@ const Projects = () => {
             {/*Hover Effects: */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                React JS Application
+                C++ Compiler
               </span>
               <div className="pt-8 text-center">
                 <a href="/">

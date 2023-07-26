@@ -12,11 +12,11 @@ import Github from "../assets/github_white.png";
 
 const Skills = () => {
   return (
-    <div name="skills" className="bg-[#0a192f] text-gray-300">
+    <div name="skills" className="bg-[#2a3439] text-gray-300">
       {/*Container: */}
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
         <div>
-          <p className="text-4xl font-bold inline border-b-4 border-[#9e11f7]">
+          <p className="text-4xl font-bold inline border-b-4 border-[#9b00e8]">
             Skills
           </p>
           <p className="py-4">

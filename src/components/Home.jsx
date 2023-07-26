@@ -3,10 +3,10 @@ import { HiArrowNarrowRight } from "react-icons/hi";
 
 const Home = () => {
   return (
-    <div name="home" className="w-full h-screen bg-[#0a192f]">
+    <div name="home" className="w-full h-screen bg-[#2a3439]">
       {/*Container: */}
       <div className="max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full">
-        <p className="text-[#9e11f7]">Hi, my name is</p>
+        <p className="text-[#9b00e8]">Hi, my name is</p>
         <h1 className="text-4xl sm:text-7xl font-bold text-[#ccd6f6]">
           Ethan Hillman
         </h1>
@@ -23,7 +23,7 @@ const Home = () => {
           culpa qui officia deserunt mollit anim id est laborum.
         </p>
         <div>
-          <button className="text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-[#9e11f7] hover:border-[#9e11f7]">
+          <button className="text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-[#9b00e8] hover:border-[#9b00e8]">
             View Work
             <span className="group-hover:rotate-90 duration-300">
               <HiArrowNarrowRight className="ml-3" />

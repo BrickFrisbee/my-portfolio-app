@@ -19,6 +19,7 @@
     background-size: cover;
     background-position: center;
     height: 250px;
+    width: 300px;
 }
 
 .content-div:hover {
