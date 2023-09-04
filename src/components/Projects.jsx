@@ -3,7 +3,7 @@ import CanvasImg from "../assets/canvas_thumbnail.jpg";
 import PortfolioImg from "../assets/portfolio.PNG";
 import SignupImg from "../assets/Signup_Blank.PNG";
 import PowerShellImg from "../assets/powershell.png";
-import MessengerImg from "../assets/download.jpg";
+import MessengerImg from "../assets/Messenger_img.png";
 import SnifferImg from "../assets/sniffer.png";
 
 const Projects = () => {
