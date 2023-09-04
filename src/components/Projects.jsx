@@ -1,10 +1,10 @@
 import React from "react";
-import LinuxImg from "../assets/linux_thumbnail.jpg";
-import CruisesImg from "../assets/cruise_thumbnail.jpg";
-import CompilerImg from "../assets/compiler_thumbnail_text.png";
-import CanvasImg from "../assets/canvas_thumbnail2.jpg";
-import MessengerImg from "../assets/messaging_thumbnail.jpg"
-import LoginImg from "../assets/login_auth_thumbnail.jpg"
+import CanvasImg from "../assets/canvas_thumbnail.jpg";
+import PortfolioImg from "../assets/portfolio.PNG";
+import SignupImg from "../assets/Signup_Blank.PNG";
+import PowerShellImg from "../assets/powershell.png";
+import MessengerImg from "../assets/download.jpg"
+import SnifferImg from "../assets/sniffer.png"
 
 
 const Projects = () => {
@@ -28,7 +28,7 @@ const Projects = () => {
 
           {/*Grid Item: */}
           <div
-            style={{ backgroundImage: `url(${CompilerImg})` }}
+            style={{ backgroundImage: `url(${SignupImg})` }}
             className="shadow-lg shadow-[#040c16] group continer rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/*Hover Effects: */}
@@ -53,7 +53,7 @@ const Projects = () => {
 
           {/*Grid Item: */}
           <div
-            style={{ backgroundImage: `url(${CruisesImg})` }}
+            style={{ backgroundImage: `url(${SnifferImg})` }}
             className="shadow-lg shadow-[#040c16] group continer rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/*Hover Effects: */}
@@ -78,7 +78,7 @@ const Projects = () => {
 
           {/*Grid Item: */}
           <div
-            style={{ backgroundImage: `url(${CanvasImg})` }}
+            style={{ backgroundImage: `url(${PowerShellImg})` }}
             className="shadow-lg shadow-[#040c16] group continer rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/*Hover Effects: */}
@@ -103,7 +103,7 @@ const Projects = () => {
 
           {/*Grid Item: */}
           <div
-            style={{ backgroundImage: `url(${MessengerImg})` }}
+            style={{ backgroundImage: `url(${PortfolioImg})` }}
             className="shadow-lg shadow-[#040c16] group continer rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/*Hover Effects: */}
@@ -128,7 +128,7 @@ const Projects = () => {
 
           {/*Grid Item: */}
           <div
-            style={{ backgroundImage: `url(${LinuxImg})` }}
+            style={{ backgroundImage: `url(${CanvasImg})` }}
             className="shadow-lg shadow-[#040c16] group continer rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/*Hover Effects: */}
@@ -153,7 +153,7 @@ const Projects = () => {
 
           {/*Grid Item: */}
           <div
-            style={{ backgroundImage: `url(${LoginImg})` }}
+            style={{ backgroundImage: `url(${MessengerImg})` }}
             className="shadow-lg shadow-[#040c16] group continer rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/*Hover Effects: */}
