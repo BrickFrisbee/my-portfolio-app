@@ -9,16 +9,19 @@ import LoginImg from "../assets/login_auth_thumbnail.jpg"
 
 const Projects = () => {
   return (
+    
     <div
       name="projects"
       className="w-full md:h-screen text-screen text-gray-300 bg-[#2a3439]"
     >
+      
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-cetner w-full h-full">
         <div className="pb-8">
           <p className="text-4xl font-bold inline border-b-4 text-gray-300 border-[#9b00e8]">
             Projects
           </p>
-          <p className="py-6"># Check out some of my recent projects</p>
+          <p className="py-6 pb-0"># Check out some of my recent projects</p>
+          <p><i>- The Messaging Web Application is school project and is private to prevent plagiarism</i> </p>
         </div>
 
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
@@ -31,7 +34,7 @@ const Projects = () => {
             {/*Hover Effects: */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                C++ Compiler
+                Login Authentication
               </span>
               <div className="pt-8 text-center">
                 <a href="/">
@@ -56,7 +59,7 @@ const Projects = () => {
             {/*Hover Effects: */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                React JS Application
+                Packet Sniffer
               </span>
               <div className="pt-8 text-center">
                 <a href="/">
@@ -81,7 +84,7 @@ const Projects = () => {
             {/*Hover Effects: */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                React JS Application
+                Automated User Setup
               </span>
               <div className="pt-8 text-center">
                 <a href="/">
@@ -106,7 +109,7 @@ const Projects = () => {
             {/*Hover Effects: */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                React JS Application
+                My Portfolio Site
               </span>
               <div className="pt-8 text-center">
                 <a href="/">
@@ -131,7 +134,7 @@ const Projects = () => {
             {/*Hover Effects: */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                React JS Application
+                Self Hosted Canvas
               </span>
               <div className="pt-8 text-center">
                 <a href="/">
@@ -156,7 +159,7 @@ const Projects = () => {
             {/*Hover Effects: */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                React JS Application
+                .NET Messenger App
               </span>
               <div className="pt-8 text-center">
                 <a href="/">

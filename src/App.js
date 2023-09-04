@@ -12,6 +12,7 @@ function App() {
       <Home/>
       <About/>
       <Skills/>
+      <div className="bg-[#2a3439] h-52"/>
       <Projects/>
       <Contact/>
     </div>
