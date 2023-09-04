@@ -15,10 +15,8 @@ const Projects = () => {
       setFlagOpacity(1);
       setTimeout(() => {
         setFlagOpacity(0);
-      }, 4500);
-      {
         /*begin fade out after 4.5 seconds*/
-      }
+      }, 4500); 
     }
   }, [showFlag]);
 
@@ -33,12 +31,6 @@ const Projects = () => {
             Projects
           </p>
           <p className="py-6 pb-0"># Check out some of my recent projects</p>
-          <p>
-            <i>
-              - The Messaging Web Application is school project and is private
-              to prevent plagiarism
-            </i>{" "}
-          </p>
         </div>
 
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
