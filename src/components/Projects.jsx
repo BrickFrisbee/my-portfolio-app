@@ -45,7 +45,7 @@ const Projects = () => {
                 Login Authentication
               </span>
               <div className="pt-8 text-center">
-                <a href="/">
+                <a href="https://github.com/BrickFrisbee/login-authentication">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Project Repository
                   </button>
@@ -65,7 +65,7 @@ const Projects = () => {
                 Packet Sniffer
               </span>
               <div className="pt-8 text-center">
-                <a href="/">
+                <a href="https://github.com/BrickFrisbee/myfirst_sniffer">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Project Repository
                   </button>
@@ -85,7 +85,7 @@ const Projects = () => {
                 Automated User Setup
               </span>
               <div className="pt-8 text-center">
-                <a href="/">
+                <a href="https://github.com/BrickFrisbee/automated-usersetup">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Project Repository
                   </button>
@@ -105,7 +105,7 @@ const Projects = () => {
                 My Portfolio Site
               </span>
               <div className="pt-8 text-center">
-                <a href="/">
+                <a href="https://github.com/BrickFrisbee/my-portfolio-app">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Project Repository
                   </button>
@@ -125,7 +125,7 @@ const Projects = () => {
                 Self Hosted Canvas
               </span>
               <div className="pt-8 text-center">
-                <a href="/">
+                <a href="https://github.com/BrickFrisbee/canvas-lms">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Project Repository
                   </button>
@@ -187,7 +187,7 @@ function FlagTooltip({ opacity }) {
         fontWeight: "bold",
       }}
     >
-      School project - private to prevent plagarism. Please contact!
+      Private to prevent academic plagarism. Contact for info!
     </div>
   );
 }
