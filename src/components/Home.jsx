@@ -15,13 +15,12 @@ const Home = () => {
           I'm a Full Stack Developer.
         </h2>
         <p className="text-[#8892b0] py-4 max-w-[700]">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat. Duis aute irure dolor in
-          reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-          pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-          culpa qui officia deserunt mollit anim id est laborum.
+          I'm a full stack developer with experience in tools like React.js and
+          Django, adept at crafting intuitive web solutions. My expertise
+          extends into networking and security, notably with my work on packet
+          sniffers and delving into the Linux kernel's complexities. Proficient
+          in C++, C#, Java, Python, and PostgreSQL, I'm always eager to tackle new
+          challenges and broaden my professional scope.
         </p>
         <div>
           <Link to="projects" smooth={true} duration={500}>

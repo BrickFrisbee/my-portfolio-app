@@ -11,21 +11,19 @@ const About = () => {
             </p>
           </div>
           <div></div>
+        </div>
+        <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
+          <div className="sm:text-right text-4xl font-bold ">
+            <p>Hi. I'm Ethan, nice to meet you. Please take a look around.</p>
           </div>
-          <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
-            <div className="sm:text-right text-4xl font-bold ">
-              <p>Hi. I'm Ethan, nice to meet you. Please take a look around.</p>
-            </div>
-            <div>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-              enim ad minim veniam, quis nostrud exercitation ullamco laboris
-              nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-              reprehenderit in voluptate velit esse cillum dolore eu fugiat
-              nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-              sunt in culpa qui officia deserunt mollit anim id est laborum.
-            </div>
+          <div>
+            I'm a Computer Science major from Arizona State University,
+            dedicated to crafting dynamic software from React.js designs, .NET
+            frameworks, to Python solutions. Committed to innovation and
+            community, I'm keen on pushing tech boundaries. See some of my work
+            on GitHub or connect with me on LinkedIn.
           </div>
+        </div>
       </div>
     </div>
   );
